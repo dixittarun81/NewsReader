@@ -1,14 +1,19 @@
 package com.tarun.newsreader.Model;
 
+import com.google.gson.Gson;
+
 import java.util.ArrayList;
 import java.util.List;
 
+import io.paperdb.Paper;
+import retrofit2.Callback;
+
 public class WebSite {
     private String status;
-    private  String totalResults;
-    private ArrayList<String> articles;
+    private  int totalResults;
+    private ArrayList<Articles> articles = new ArrayList<Articles>();
 
-    public WebSite(String status, String totalResults, ArrayList<String> articles) {
+    public WebSite(String status, int totalResults, ArrayList articles) {
         this.status = status;
         this.totalResults = totalResults;
         this.articles = articles;
@@ -22,19 +27,15 @@ public class WebSite {
         this.status = status;
     }
 
-    public String getTotalResults() {
+    public int getTotalResults() {
         return totalResults;
     }
 
-    public void setTotalResults(String totalResults) {
-        this.totalResults = totalResults;
-    }
-
-    public ArrayList<String> getArticles() {
+    public ArrayList<Articles> getArticles() {
         return articles;
     }
 
-    public void setArticles(ArrayList<String> articles) {
+    public void setArticles(ArrayList<Articles> articles) {
         this.articles = articles;
     }
 }

@@ -9,6 +9,9 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ta
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\94acf5bf888d248430c3e1f1662ce3fc\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\a18a27ca96771c8ed986dd21c91abdec\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.d-max:spots-dialog:1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\ba9e18d009be9302d4ea4c47ee9ce22c\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9fbfa4f98c361638b98987d1dd759b2d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7dfd56eaf41f77c93d85378a6d59f76f\AndroidManifest.xml:2:1-12:12
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9bdc94fe72256d28a10bc14e3d6053e4\AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7b1cd0a106bbb2a0cb7aa01dcffe399d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\c6ac93dcbea7b8e8c513c70f57ff4ab2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\3d574935c3a812775d2cc727c2e7ebaf\AndroidManifest.xml:17:1-22:12
@@ -25,6 +28,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tarun dixi
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\3bc8f84938a5a1b3446ed7872dd680a6\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\75d094fa51f73b51005654793d16ce1a\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\43d241684b694101ed5c0e7f5262bb43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\5c3bc84bbf874508f3e43a026e64a485\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\deec8a3a5bdda744fad2d6806928ef66\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\cbc7d61ebbdacadc64dd56c996bb0dd2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\07e0c719dc19db4cfcaa69a3dafb7479\AndroidManifest.xml:17:1-22:12
@@ -61,10 +65,18 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ta
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\2bd4f2d874656af4367ef31d2982cf10\AndroidManifest.xml:9:5-20
 MERGED from [com.github.d-max:spots-dialog:1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\ba9e18d009be9302d4ea4c47ee9ce22c\AndroidManifest.xml:11:5-20
 MERGED from [com.github.d-max:spots-dialog:1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\ba9e18d009be9302d4ea4c47ee9ce22c\AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9fbfa4f98c361638b98987d1dd759b2d\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9fbfa4f98c361638b98987d1dd759b2d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7dfd56eaf41f77c93d85378a6d59f76f\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7dfd56eaf41f77c93d85378a6d59f76f\AndroidManifest.xml:10:5-20
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9bdc94fe72256d28a10bc14e3d6053e4\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9bdc94fe72256d28a10bc14e3d6053e4\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\3bc8f84938a5a1b3446ed7872dd680a6\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\3bc8f84938a5a1b3446ed7872dd680a6\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\75d094fa51f73b51005654793d16ce1a\AndroidManifest.xml:22:5-23:19
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\75d094fa51f73b51005654793d16ce1a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\5c3bc84bbf874508f3e43a026e64a485\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\5c3bc84bbf874508f3e43a026e64a485\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\3bc8f84938a5a1b3446ed7872dd680a6\AndroidManifest.xml:22:18-91
 	android:supportsRtl
@@ -107,6 +119,12 @@ MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\tarun dixit\.gradl
 MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\a18a27ca96771c8ed986dd21c91abdec\AndroidManifest.xml:20:5-44
 MERGED from [com.github.d-max:spots-dialog:1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\ba9e18d009be9302d4ea4c47ee9ce22c\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.d-max:spots-dialog:1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\ba9e18d009be9302d4ea4c47ee9ce22c\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9fbfa4f98c361638b98987d1dd759b2d\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9fbfa4f98c361638b98987d1dd759b2d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7dfd56eaf41f77c93d85378a6d59f76f\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7dfd56eaf41f77c93d85378a6d59f76f\AndroidManifest.xml:6:5-8:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9bdc94fe72256d28a10bc14e3d6053e4\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\9bdc94fe72256d28a10bc14e3d6053e4\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7b1cd0a106bbb2a0cb7aa01dcffe399d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\7b1cd0a106bbb2a0cb7aa01dcffe399d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\c6ac93dcbea7b8e8c513c70f57ff4ab2\AndroidManifest.xml:20:5-44
@@ -139,6 +157,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tarun dixi
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\75d094fa51f73b51005654793d16ce1a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\43d241684b694101ed5c0e7f5262bb43\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\43d241684b694101ed5c0e7f5262bb43\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\5c3bc84bbf874508f3e43a026e64a485\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\5c3bc84bbf874508f3e43a026e64a485\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\deec8a3a5bdda744fad2d6806928ef66\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\deec8a3a5bdda744fad2d6806928ef66\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tarun dixit\.gradle\caches\transforms-2\files-2.1\cbc7d61ebbdacadc64dd56c996bb0dd2\AndroidManifest.xml:20:5-44

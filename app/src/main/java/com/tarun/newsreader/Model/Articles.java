@@ -1,12 +1,48 @@
 package com.tarun.newsreader.Model;
 
 public class Articles {
+    private Source source;
     private String author;
     private String title;
     private String description;
     private String url;
     private String urlToImage;
     private String publishedAt;
+
+
+    public Articles(){
+
+    }
+
+    public Articles(Source source) {
+        this.source = source;
+    }
+    public class Source {
+
+        private String id;
+        private String name;
+
+        public Source(String id) {
+            this.id = id;
+        }
+
+        public String getId() {
+            return id;
+        }
+
+        public void setId(String id) {
+            this.id = id;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public void setName(String name) {
+            this.name = name;
+        }
+
+    }
 
     public Articles(String author, String title, String description, String url, String urlToImage, String publishedAt) {
         this.author = author;
@@ -15,6 +51,14 @@ public class Articles {
         this.url = url;
         this.urlToImage = urlToImage;
         this.publishedAt = publishedAt;
+    }
+
+    public Source getSource() {
+        return source;
+    }
+
+    public void setSource(Source source) {
+        this.source = source;
     }
 
     public String getAuthor() {
